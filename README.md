@@ -5,13 +5,13 @@ statistical models that enable computers to learn and make predictions or decisi
 being explicitly programmed. ML systems learn from data, identify patterns, and make 
 predictions or take actions based on that learning.
 
-![alt](./https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectpro.io%2Farticle%2Ftypes-of-machine-learning%2F623&psig=AOvVaw0sj51a5EGKGTC9ATePUkDw&ust=1685859138893000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCv_e24pv8CFQAAAAAdAAAAABAE)
+![alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectpro.io%2Farticle%2Ftypes-of-machine-learning%2F623&psig=AOvVaw0sj51a5EGKGTC9ATePUkDw&ust=1685859138893000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCv_e24pv8CFQAAAAAdAAAAABAE)
 ## TYPE OF MACHINE
 * SUPERVIZED LEARNING
 * UNSUPERVIZED LEARNING
 * REINFORCEMENT LEARNING
   
-  ![alt](./https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5daddb33ee92bf44231c2fef%2Fe163d977-3fe5-42da-b959-5b5319027458%2Fmachine-learning-in-healthcare.jpg&tbnid=O4DR-bf75bq5OM&vet=12ahUKEwjAq5jquKb_AhWipycCHXQuA04QMygJegUIARDvAQ..i&imgrefurl=https%3A%2F%2Fwww.foreseemed.com%2Fblog%2Fmachine-learning-in-healthcare&docid=hYYW8mVSXuCpxM&w=2500&h=995&q=machine%20learning&ved=2ahUKEwjAq5jquKb_AhWipycCHXQuA04QMygJegUIARDvAQ)
+  ![alt](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5daddb33ee92bf44231c2fef%2Fe163d977-3fe5-42da-b959-5b5319027458%2Fmachine-learning-in-healthcare.jpg&tbnid=O4DR-bf75bq5OM&vet=12ahUKEwjAq5jquKb_AhWipycCHXQuA04QMygJegUIARDvAQ..i&imgrefurl=https%3A%2F%2Fwww.foreseemed.com%2Fblog%2Fmachine-learning-in-healthcare&docid=hYYW8mVSXuCpxM&w=2500&h=995&q=machine%20learning&ved=2ahUKEwjAq5jquKb_AhWipycCHXQuA04QMygJegUIARDvAQ)
 
 ### SUPERVIZED LEARNING
 ---
